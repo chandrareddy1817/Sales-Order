@@ -1,36 +1,3 @@
-# 📊 Acme Co. Sales Data Analysis (2014–2018)
-
-## 🎯 Objective
-
-Deliver actionable insights from Acme Co.'s 2014–2018 sales data to:
-
-- Identify top-performing products, channels, and regions driving **revenue** and **profit**
-- Uncover **seasonal trends** and **anomalies** for optimized planning
-- Spot **pricing and margin risks** from outlier transactions
-- Inform **pricing**, **promotion**, and **market-expansion** strategies
-
-These findings guide the design of a **Power BI dashboard** to support strategic decision-making and sustainable growth.
-
----
-
-## 📂 Dataset Overview
-
-The dataset contains 5 years (2014–2018) of transaction-level sales data, including:
-
-- Order details (`order_date`, `order_number`)
-- Financials (`unit_price`, `cost`, `budget`, `revenue`)
-- Product and sales channel information
-- Customer and location data (`region`, `state`, `county`)
-
----
-
-## 🛠️ Tools & Technologies
-
-- **Python**: Pandas, Matplotlib, Seaborn for data cleaning and analysis
-- **Power BI**: Interactive dashboard for business users
-- **Jupyter Notebook**: Analysis workflows and insight generation
-
----
 
 ## 🔍 Key Insights
 
