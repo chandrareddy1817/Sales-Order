@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 Power BI Dashboard (Coming Soon)
+## 📊 Power BI Dashboard
 
 The dashboard will provide:
 
@@ -59,4 +59,3 @@ The accompanying Power BI dashboard will turn these insights into an interactive
 
 ---
 
-📁 *This repository includes the Python notebooks, cleaned datasets, and dashboard files for reference and reuse.*
